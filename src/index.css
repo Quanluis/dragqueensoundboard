@@ -1,0 +1,21 @@
+* {
+  background-color: #D2B4DE;  
+}
+
+header {
+  font-size: 5rem;
+  text-align: center;
+  color: #ECF0F1;
+}
+
+button {
+  background-color: #ECF0F1;
+  font-size: 1.2rem;
+  width: 6rem;
+  height: 3rem;
+  border-radius: 8%;
+  display: block;
+  margin: auto;
+
+}
+
